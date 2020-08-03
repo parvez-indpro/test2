@@ -28,6 +28,7 @@ const Page500 = React.lazy(() => import('./views/pages/page500/Page500')); */
 
 export default function App() {
   return (
+    <p></p>
     <HashRouter hashType="slash">
       <Helmet>
         <meta charSet="utf-8" />
